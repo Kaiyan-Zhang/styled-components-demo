@@ -7,3 +7,9 @@
 ```
 pnpm start
 ```
+
+## 02-feat: styled-components
+
+```
+pnpm start
+```
